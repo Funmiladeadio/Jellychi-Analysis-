@@ -1,6 +1,6 @@
 # Jellychi-Analysis-
 
-![](coverpage.jpg)
+![](coverpage2.jpg)
 
 ## Introduction 
 This is an Excel Customer Performance dasboard report on an imaginary store called **Jellychi Ltd**. The progect is to analyze and derive insight to answer critical questions which could the company make data-driven decisions.
